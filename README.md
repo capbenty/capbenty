@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @capbenty
-- 👀 I work by python
+- 👀 I'm using python
 - 🌱 I’m currently interested in rust 
 
 
